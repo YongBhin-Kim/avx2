@@ -12,4 +12,4 @@
 
 <h2>2024</h2>
 
-**Breaking Vulnerable ecdsa Algorithm**
+**Breaking Vulnerable ECDSA Algorithm**
